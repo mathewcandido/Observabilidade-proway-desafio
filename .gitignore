@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Docker
+*.log
+.env
+
+# VSCode
+.vscode/
+
+# Sistema
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Outros
+*.sqlite3
+*.db
